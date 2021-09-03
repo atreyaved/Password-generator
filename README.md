@@ -7,3 +7,4 @@ Just install python3 with your package manager
 And then run: 
   python3 main.py
 ```
+Edit : i wont add a better setup , cause, its kinda stupid
