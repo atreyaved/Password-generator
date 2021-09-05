@@ -6,7 +6,7 @@ os.system('touch ~/saved-password.txt')
 
 
 
-MAX_LEN = 12
+MAX_LEN = 14
   
 
 DIGITS = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']  
